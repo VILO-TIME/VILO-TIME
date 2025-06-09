@@ -1,7 +1,7 @@
 - 👋 Hi, I’m VILO
 - 👀 I’m interested in programing
 - 🌱 I’m currently learning video clips
-- 😄 Hobby: Writing storys, playing drums
+- 😄 My hobby is writing storys and playing drums
 
 <!---
 VILO-TIME/VILO-TIME is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
